@@ -1,2 +1,2 @@
 Ola! 
-Essa é uma  aplicação desenvolvida para consumir uma api sobre clima, e mostrar o resulado para o usuário.
+Essa é uma  aplicação desenvolvida para consumir uma api sobre clima, e mostrar o resultado para o usuário.
